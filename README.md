@@ -6,7 +6,7 @@
 
 I am a new web developer so that I am still learning programming languages.
 
-Skills: WordPress / JS / HTML / CSS..................
+Skills: HTML/CSS/BOOTSTRAP/JS/.............
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning computer science and engineering 
