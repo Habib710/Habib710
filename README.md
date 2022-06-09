@@ -1,12 +1,12 @@
 # Hi there 👋
 
-###  I'm Md Habib
+###  I'm Md Habibullah
 #### web developer
 ![web developer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/s526x395/269768301_1259196107935813_5500708506472569914_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zgiR7O06MjcAX-nft1P&tn=R8dOu08jtS8XGiYY&_nc_ht=scontent.fdac140-1.fna&oh=00_AT_Q_uuzbYWwkCc1gK8uVtPX4ythCcrwqux1YGRixfJMVA&oe=61D0F557)
 
 I am a new web developer so that I am still learning programming languages.
 
-Skills: HTML/CSS/BOOTSTRAP/JS/.............
+Skills: HTML5/CSS3/BOOTSTRAP5/JS/React/node.js/express.js/mongoDB/Typescript/React-native.............
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning computer science and engineering 
