@@ -1,17 +1,27 @@
 # Hi there 👋
+![habib-banner](https://user-images.githubusercontent.com/96760385/188317942-afac4f0a-0ec5-422d-808d-8eb687e77c5b.png)
+
+
 
 ###  I'm Md Habibullah
-#### web developer
-![web developer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/s526x395/269768301_1259196107935813_5500708506472569914_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zgiR7O06MjcAX-nft1P&tn=R8dOu08jtS8XGiYY&_nc_ht=scontent.fdac140-1.fna&oh=00_AT_Q_uuzbYWwkCc1gK8uVtPX4ythCcrwqux1YGRixfJMVA&oe=61D0F557)
+#### MERN Stack developer
 
-I am a new web developer so that I am still learning programming languages.
+I have a passion for creating user-friendly interfaces and strive to build websites that are both
+visually appealing and easy to use.I have a strong
+understanding of MERN Stack development technologies and principles of user experience design..
 
-Skills: HTML5/CSS3/BOOTSTRAP5/JS/React/node.js/express.js/mongoDB/Typescript/React-native.............
+
+Skills: HTML5/CSS3/BOOTSTRAP5/JS/React/node.js /express.js /mongoDB/Typescript/React-native.............
+
+<img src='https://png.pngitem.com/pimgs/s/664-6644509_icon-react-js-logo-hd-png-download.png' alt='github' height='60'> <img src='https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png' alt='github' height='60'>  <img src='https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png' alt='github' height='60'>  <img src='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png' alt='github' height='60'><img src='https://laymanclass.com/wp-content/uploads/2019/08/mongodb2.jpeg' alt='github' height='60'>
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning computer science and engineering 
 - 💬 Ask me about web development 
 - 📫 How to reach me: social link  
+
+![habib-2-banner](https://user-images.githubusercontent.com/96760385/188318536-49c5fd58-62c0-49d1-91fe-0ac9efb2014b.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Habib710)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100015363064250)  
