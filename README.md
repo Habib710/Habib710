@@ -1,12 +1,14 @@
 # Hi there 👋  
 ### I'm Md Habibullah  
-#### Software Quality Assurance (SQA) Engineer  
+#### Software Quality Assurance (SQA) Engineer 
+<img width="1351" height="669" alt="image" src="https://github.com/user-attachments/assets/d689f1b9-d991-41b6-942b-0de0d94b6e14" />
 
 I’m passionate about ensuring software quality through systematic testing and continuous improvement.  
 My goal is to deliver **bug-free, user-friendly, and reliable software** by applying effective QA strategies and automation techniques.  
 
 I have hands-on experience in **manual testing, automation testing, API testing, and performance testing**.  
 I focus on identifying root causes of issues early in the SDLC and improving test coverage and efficiency.
+
 
 ---
 
@@ -45,7 +47,6 @@ I focus on identifying root causes of issues early in the SDLC and improving tes
 - 🌐 Portfolio: 
 
 
-![habib-2-banner](https://user-images.githubusercontent.com/96760385/188318536-49c5fd58-62c0-49d1-91fe-0ac9efb2014b.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Habib710)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100015363064250)  
